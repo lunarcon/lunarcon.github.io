@@ -10,3 +10,17 @@
 .window-title {
   background: linear-gradient(to right, #010086, #010086, #02014f) !important;
 }
+
+td {
+  vertical-align: middle !important;
+}
+
+.footer {
+  display: block; 
+  height: 31px;
+  width: 98%;
+  position: absolute !important;
+  bottom: 5px !important;
+  padding-left: 10px;
+  padding-top: 2px;
+}
